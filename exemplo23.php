@@ -11,5 +11,7 @@ print_r(A1);
 
 //o true no final da constante, é para transformar
 //em case insensitive.
+//constantes são criadas para não alterar valores, bom para senhas etc.
+
 
 ?>
